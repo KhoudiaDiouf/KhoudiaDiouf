@@ -1,9 +1,12 @@
-### Hi there 👋
+### Salut! 😀
 
-<!--
-**KhoudiaDiouf/KhoudiaDiouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Khoudia Diouf, étudiante en Alternance niveau Master 1 à l'IA School.
 
-Here are some ideas to get you started:
+### Mes Projets 📘
+- **Alternance chez CGI**
+ Technicienne support informatique : Maitrise outils clients  Microsoft Excel · OTRS · JIRA · Oracle · Microsoft Outlook · SQL
+
+### Me contacter
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
