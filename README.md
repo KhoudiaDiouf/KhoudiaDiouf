@@ -16,4 +16,4 @@ Je suis Khoudia Diouf, étudiante en Alternance niveau Master 1 à l'IA School.
 
 ### Me contacter 
 
-Vous pouvez me contacter à l'adresse : [khoudiadiouf.kd@gmail.com]
+Vous pouvez me contacter à l'adresse : khoudiadiouf.kd@gmail.com
