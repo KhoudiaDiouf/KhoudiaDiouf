@@ -2,18 +2,18 @@
 
 Je suis Khoudia Diouf, étudiante en Alternance niveau Master 1 à l'IA School.
 
-### Mes Projets 📘
 - **Alternance chez CGI**
- Technicienne support informatique : Maitrise outils clients  Microsoft Excel · OTRS · JIRA · Oracle · Microsoft Outlook · SQL
+- Étudiante en contrat d'apprentissage au sein du groupe CGI
+ Technicienne support informatique : Maitrise outils clients  Microsoft Excel · OTRS · JIRA ·  Microsoft Outlook · SQL
+
+## Compétences Techniques et Fonctionnelles
+
+- Gestion de Projet: étude des besoins, cahier des charges, faisabilité
+- Gestion de bases de données: Oracle, MySQL
+- Conception, développement de logiciels: PYTHON, R, R-Shiny
+- Conception de site Web: CSS, HTML
+- E-commerce : Adobe Photoshop, Shopify, Facebook Ads, Google Ads,
 
 ### Me contacter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vous pouvez me contacter à l'adresse : [khoudiadiouf.kd@gmail.com](mailto:votre_email@example.com)
