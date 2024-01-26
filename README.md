@@ -14,6 +14,12 @@ Je suis Khoudia Diouf, étudiante en Alternance niveau Master 1 à l'IA School.
 - Conception de site Web: CSS, HTML
 - E-commerce : Adobe Photoshop, Shopify, Facebook Ads, Google Ads,
 
+## Mes projets 💬
+- *Cours SQL pour les nuls* :  [SQL Présentation](SQLPourlesNuls.pdf)
+- *Analyse des chansons les plus streamées sur Spotify en 2023* : [Rstudio Analyse de données](https://github.com/CeliaMarty/CeliaMarty/blob/main/CeliaMARTY-Spotify.R)
+- *Création d'une application web sur les délits à Los Angeles* : [R-Shiny Web APP](https://github.com/CeliaMarty/Projet-R-Shiny-)
+- **Création d'un application web sur les
+
 ### Me contacter 
 
 Vous pouvez me contacter à l'adresse suivante : khoudiadiouf.kd@gmail.com
