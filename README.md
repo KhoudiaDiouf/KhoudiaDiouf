@@ -3,7 +3,7 @@
 Je suis Khoudia Diouf, étudiante en Alternance niveau Master 1 à l'IA School.
 
 - **Alternance chez CGI**
-- Étudiante en contrat d'apprentissage au sein du groupe CGI
+- Étudiante en contrat d'apprentissage au sein du groupe [CGI] (https://www.cgi.com/france/fr-fr)
  Technicienne support informatique : Maitrise outils clients  Microsoft Excel · OTRS · JIRA ·  Microsoft Outlook · SQL
 
 ## Compétences Techniques et Fonctionnelles ✅ 
